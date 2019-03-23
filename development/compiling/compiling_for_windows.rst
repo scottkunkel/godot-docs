@@ -59,6 +59,10 @@ your version of Python (check via ``python --version`` mentioned above).
 
 .. _doc_compiling_for_windows_install_vs:
 
+Yams Setup (optional)
+---------------------------------
+For SIMD optimizations, download yams http://yasm.tortall.net/ and create a PATH entry for it. Rename the executable to yams.exe.
+
 Installing Visual Studio caveats
 --------------------------------
 
